@@ -11,17 +11,20 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "moment": "^2.24.0",
-    "native-base": "^2.12.1",
     "@expo/samples": "2.1.1",
+    "@expo/vector-icons": "^10.0.2",
     "expo": "^32.0.0",
     "fuse.js": "^3.3.0",
     "lodash": "^4.17.11",
     "mobx": "^5.8.0",
     "mobx-persist": "^0.4.1",
     "mobx-react": "^5.4.3",
+    "moment": "^2.24.0",
+    "native-base": "^2.12.1",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-elements": "^1.1.0",
+    "react-native-vector-icons": "^6.5.0",
     "react-navigation": "^3.0.9"
   },
   "devDependencies": {
