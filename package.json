@@ -15,7 +15,7 @@
     "@expo/vector-icons": "^10.0.2",
     "expo": "^32.0.0",
     "fuse.js": "^3.3.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mobx": "^5.8.0",
     "mobx-persist": "^0.4.1",
     "mobx-react": "^5.4.3",
